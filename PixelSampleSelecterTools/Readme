@@ -1,1 +1,6 @@
 
+SampleSelecter is a C# project, this tool can select samples an export samples location to a "ptp" file.
+Our algorithm need "ptp" file to create training samples.
+"ptp"  does not contain category labels, but assumes that all points in a PTP file belong to a unified category.
+So when createing training samples, multiple ptp files are needed, such as 4 categories, then each category must have at least one file to correspond to, 
+so at least create 4 ptp file through this tool.
