@@ -1,5 +1,5 @@
 # SO-DNN
-Simplified Object-Based Deep Neural Network for Very High Resolution Remote Sensing Image Classification, ISPRS Journal of Photogrammetry and Remote Sensing
+Xin Pan, Ce Zhang, Jun Xu, Jian Zhao, 2021, Simplified Object-Based Deep Neural Network for Very High Resolution Remote Sensing Image Classification, ISPRS Journal of Photogrammetry and Remote Sensing, 181:218-237.
 
 SO-DNNAlgorithmScripts contains Scripts of all SO-DNN algorithms.
 
